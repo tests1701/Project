@@ -7,6 +7,11 @@ public class HelloWorld {
 	
 	public void print()
 	{
-		System.out.println("This is a mew method i added");
+		System.out.println("This is a mew method I added"); // commenting data
+	}
+	
+	public void printThis()
+	{
+		System.out.println("This is an online modificaton.");
 	}
 }
